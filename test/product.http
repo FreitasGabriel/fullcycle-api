@@ -1,0 +1,7 @@
+POST http://locahost:8000/products
+Content-Type: application/json
+
+{
+  "name": "My product",
+  "price": 100
+}
